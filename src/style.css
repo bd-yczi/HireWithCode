@@ -52,11 +52,6 @@ button:hover {
   background-color: #0095d1;
 }
 
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
 #app {
   width: 100%;
   min-height: 100vh;
